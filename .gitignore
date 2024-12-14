@@ -1,0 +1,25 @@
+# Visual Studio ignores
+Bin/
+bin/
+Obj/
+obj/
+*.user
+*.suo
+node_modules/
+dist/
+*.nupkg
+
+# IDE ignores
+.vscode
+.vs
+.idea
+.localhistory
+
+# Sonar qube ignores
+.sonarqube
+
+# nuget ignores
+packages/
+
+*.lock.json
+
